@@ -1,2 +1,2 @@
-# SQL_IMDBdata_Analysis
+# SQL IMDB dataset Analysis
 SQL-analysis on IMDB dataset
